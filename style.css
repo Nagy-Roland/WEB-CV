@@ -1,0 +1,16 @@
+.profile-card{display:flex;gap:18px;align-items:center;background:#11161d;border:1px solid #1f2937;border-radius:16px;padding:16px;box-shadow:0 10px 30px rgba(0,0,0,.35)}
+.profile-card .avatar{width:96px;height:96px;border-radius:50%;object-fit:cover;border:2px solid #1f2937}
+.profile-card .name{margin:0;font-size:28px}
+.profile-card .role{margin:4px 0 8px;color:#9aa4b2}
+.profile-card .links a{color:#e6e9ef;text-decoration:none}
+.profile-card .links a:hover{text-decoration:underline}
+
+.chip{display:inline-block;margin:4px 6px 0 0;padding:6px 10px;border:1px solid #1f2937;border-radius:999px;background:rgba(255,255,255,.03);font-size:12px}
+
+.card {
+    background-color: #111827;
+    border-radius: 12px;
+    padding: 24px;
+    margin-bottom: 20px;
+    border: 1px solid #1f2937;
+}
